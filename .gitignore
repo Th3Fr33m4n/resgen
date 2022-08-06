@@ -1,3 +1,7 @@
 /bin/
 /obj/
 /test/obj/
+/Debug/
+/Release/
+.vs/
+/Backup/
